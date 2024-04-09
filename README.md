@@ -2,9 +2,10 @@
 
 A simple script to disable the standby mode of Marshall speakers.
 
-## Installation Requirements
+## Installation
 
 ```
+git clone https://github.com/ycj29/Marshall-StandbyMode-Disabler.git
 pip3 install playsound
 pip3 install PyObjC
 ```
